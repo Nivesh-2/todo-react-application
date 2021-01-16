@@ -1,4 +1,4 @@
-#Todo React Appication
+# Todo React Appication
 - This application helps you to maintain your daily Todo list.
 
 ## To Install the Application in your localhost
