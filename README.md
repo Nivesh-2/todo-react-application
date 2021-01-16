@@ -5,7 +5,7 @@
 - Download this repo in you system, then open the terminal in the folder of the project
 - Then, run "npm start"
 
-## Wanted to check the applciation 
+## Wanted to check the application 
 - Check this out: https://todo-application-react-1.herokuapp.com/
 
 ## Intructions for running the application
